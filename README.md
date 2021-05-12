@@ -1,2 +1,2 @@
 # Nyan-Cat-The-Game
-A game about the adventure of Nyan cat
+A simple beginner level game about the adventure of Nyan cat
